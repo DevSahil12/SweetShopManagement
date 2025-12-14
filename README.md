@@ -78,6 +78,3 @@ SweetShopManagement/
 │   └── AddSweets.png
 │
 └── README.md
-
-
-
