@@ -17,32 +17,6 @@ The Sweet Shop Management System allows users to:
 - Delete sweets
 - Maintain real-time inventory updates
 
----
-
-## 🧠 AI Usage Disclosure
-
-⚠️ **Important Transparency Note**
-
-The **frontend (React UI)** of this project was developed **with the assistance of AI (ChatGPT)**.
-
-### AI was used for:
-- Designing React component structure
-- UI improvements using Material UI
-- Debugging React props/state issues
-- Improving UX flow (login → dashboard)
-- Code suggestions and refactoring
-
-### AI was **NOT** used for:
-- Backend business logic
-- JWT authentication implementation
-- Spring Security configuration
-- Database design
-- API development
-- Project architecture decisions
-
-> AI was used strictly as a **development assistant**, not as an automatic code generator.
-
----
 
 ## 🛠️ Tech Stack
 
